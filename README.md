@@ -1,1 +1,1 @@
-Fourth project made with Java, "Hard" difficulty on Hyperskill, made in a day.
+Fourth project made with Java, "Easy" difficulty on Hyperskill, made in a day.
